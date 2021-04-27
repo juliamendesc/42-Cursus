@@ -1,0 +1,6 @@
+[submodule "00-Libft"]
+	path = 00-Libft
+	url = git@github.com:juliamendesc/00-Libft.git
+[submodule "01-Get_Next_Line"]
+	path = 01-Get_Next_Line
+	url = git@github.com:juliamendesc/01-Get_Next_Line.git
