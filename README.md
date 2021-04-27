@@ -3,12 +3,13 @@
 ## Projects submmited by [Julia Carvalho](https://www.linkedin.com/in/juliamendesc/)
 
 ```
-This library was made to centralize all the projects submitted to 42 Lisbon during my time here.<br>
+This library was made to centralize all the projects submitted to 42 Lisbon during my time here.
 I will update this constantly according to the development of projects. 😊
 ```
 
 ```
-42 methodology provides specific and strict guidelines that students need to comply upon submitting and having their projects evaluated.
+42 methodology provides specific and strict guidelines that students need to comply upon submitting
+and having their projects evaluated.
 ```
 
 ## Validated & ongoing projects
