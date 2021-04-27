@@ -21,7 +21,8 @@ and having their projects evaluated.
 ##### About 42
 
 ```
-"42 has more than 10.000 students in over 20 countries, and is recognized as one of the best coding schools worldwide."
+"42 has more than 10.000 students in over 20 countries, and is recognized as one of the best coding
+schools worldwide."
 ```
 
 [42Lisboa](https://www.42lisboa.com/en/)
