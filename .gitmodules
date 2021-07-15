@@ -4,3 +4,6 @@
 [submodule "01-Get_Next_Line"]
 	path = 01-Get_Next_Line
 	url = git@github.com:juliamendesc/01-Get_Next_Line.git
+[submodule "02-Printf"]
+	path = 02-Printf
+	url = git@github.com:juliamendesc/02-Printf.git
