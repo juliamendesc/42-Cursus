@@ -15,9 +15,10 @@ and having their projects evaluated.
 ## Validated & ongoing projects
 
 0.0 Libft ✔️ 115% <br>
-0.1 Get Next Line ✔️ 107% <br>
-0.1 Printf ✔️ 100% <br>
-0.1 Born to be Root 📜 Starting research soon <br>
+1.0 Get Next Line ✔️ 107% <br>
+1.1 Printf ✔️ 100% <br>
+1.2 Born to be Root ✔️ Awaiting defense <br>
+2.0 FDF 📜 Research phase <br>
 
 ##### About 42
 
