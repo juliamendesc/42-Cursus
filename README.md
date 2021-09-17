@@ -18,7 +18,8 @@ and having their projects evaluated.
 1.0 Get Next Line ✔️ 107% <br>
 1.1 Printf ✔️ 100% <br>
 1.2 Born to be Root ✔️ 100% - [Log to Born2beroot Project](https://docs.google.com/document/d/1Q79XhG2PhXxcgVHfLTm4bOZCXEMPNYvs83JsmcKy8nQ/edit?usp=sharing) <br>
-2.0 FDF 📜 Research phase <br>
+2.0 Minitalk ✔️ Waiting for defense <br>
+2.1 FDF 📜 Research phase <br>
 
 ##### About 42
 
