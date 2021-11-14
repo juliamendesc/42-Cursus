@@ -10,3 +10,6 @@
 [submodule "04-Minitalk"]
 	path = 04-Minitalk
 	url = git@github.com:juliamendesc/04-Minitalk.git
+[submodule "03-FDF"]
+	path = 03-FDF
+	url = git@github.com:juliamendesc/03-FDF.git
