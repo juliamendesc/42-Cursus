@@ -7,6 +7,3 @@
 [submodule "02-Printf"]
 	path = 02-Printf
 	url = git@github.com:juliamendesc/02-Printf.git
-[submodule "42Minitalk"]
-	path = 42Minitalk
-	url = git@github.com:juliamendesc/42Minitalk.git
