@@ -7,12 +7,12 @@
 [submodule "02-Printf"]
 	path = 02-Printf
 	url = git@github.com:juliamendesc/02-Printf.git
-[submodule "04-Minitalk"]
-	path = 04-Minitalk
-	url = git@github.com:juliamendesc/04-Minitalk.git
 [submodule "03-FDF"]
 	path = 03-FDF
 	url = git@github.com:juliamendesc/03-FDF.git
+[submodule "04-Minitalk"]
+	path = 04-Minitalk
+	url = git@github.com:juliamendesc/04-Minitalk.git
 [submodule "05-Push_swap"]
 	path = 05-Push_swap
 	url = git@github.com:juliamendesc/05-Push_swap.git
